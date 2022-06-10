@@ -1,0 +1,46 @@
+06/10/2022 11:29:21 AM: INFO: === Test_1_invalid_Login_wrong format EMAIL ===
+06/10/2022 11:29:23 AM: INFO: === test 1_invalid wrong format Email Login Test: PASS
+06/10/2022 11:29:29 AM: INFO: === Test_1_invalid_Login_wrong format EMAIL ===
+06/10/2022 11:29:30 AM: INFO: === test 1_invalid wrong format Email Login Test: PASS
+06/10/2022 11:29:37 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:29:39 AM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 11:29:46 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:29:48 AM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 11:29:55 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:29:57 AM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 11:30:04 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:30:13 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:30:21 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:43:10 AM: INFO: === Test_5_valid TAB key ===
+06/10/2022 11:43:21 AM: INFO: === Test_5_valid TAB key Test: PASS
+06/10/2022 11:46:46 AM: INFO: === Test_1_Title_Login ===
+06/10/2022 11:46:50 AM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 11:46:53 AM: INFO: === Test_2_valid_Login ===
+06/10/2022 11:47:04 AM: INFO: === test 2_Valid Login Test: PASS
+06/10/2022 11:47:06 AM: INFO: === Test_3_password_eye_icon ===
+06/10/2022 11:47:14 AM: INFO: === test 3_password eye Test: PASS
+06/10/2022 11:47:17 AM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 11:47:21 AM: INFO: === Test_5_valid TAB key ===
+06/10/2022 11:48:57 AM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 11:49:06 AM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 11:49:08 AM: INFO: === Test_2_valid_Login ===
+06/10/2022 11:49:14 AM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 11:49:22 AM: INFO: === test 3_password eye Test: PASS
+06/10/2022 11:49:24 AM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 11:49:35 AM: ERROR: === Test_4_valid_Login_EnterKey: FAIL
+06/10/2022 11:50:23 AM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 11:50:28 AM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 11:50:31 AM: INFO: === Test_2_valid_Login ===
+06/10/2022 11:50:42 AM: INFO: === test 2_Valid Login Test: PASS
+06/10/2022 11:50:44 AM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 11:50:52 AM: INFO: === test 3_password eye Test: PASS
+06/10/2022 11:50:54 AM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 11:51:06 AM: INFO: === Test_4_valid_Login_EnterKey: PASS
+06/10/2022 11:52:01 AM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 11:52:05 AM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 11:52:07 AM: INFO: === Test_2_valid_Login ===
+06/10/2022 11:52:12 AM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 11:52:19 AM: INFO: === test 3_password eye Test: PASS
+06/10/2022 11:52:21 AM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 11:52:34 AM: ERROR: === Test_4_valid_Login_EnterKey: FAIL
+06/10/2022 11:52:35 AM: INFO: === Test_5_valid TAB key ===
